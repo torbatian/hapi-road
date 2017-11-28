@@ -1,6 +1,6 @@
 {
   "name": "hapi-road",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "hapi.js route loader",
   "main": "lib/index.js",
   "repository": "https://github.com/torbatian/hapi-road.git",
